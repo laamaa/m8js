@@ -1,0 +1,74 @@
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# CLion-specific files
+.idea/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*
+
+# CMake-specific files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+CMakeLists.txt.user
+compile_commands.json
+CTestTestfile.cmake
+cmake_install.cmake
+install_manifest.txt
+
+# Generated files
+*.dSYM/
+*.orig
+*.pyc
+*.pyo
+*.rbc
+*.resolved
+*.swp
+tags
+*.class
+*.fasl
+*.lib
+*.lo
+*.lai
+*.la
+*.mod
+*.slo
+*.al
+
+# Backup files
+*~
+# Auto-generated configuration files
+/settings.json
+
+# Exclude all build directories
+build*/
+
+# IDE specific files
+.vscode/
