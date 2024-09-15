@@ -5,6 +5,7 @@
 *.exe
 *.o
 *.so
+/m8js
 
 # Packages
 *.7z
@@ -72,3 +73,4 @@ build*/
 
 # IDE specific files
 .vscode/
+
